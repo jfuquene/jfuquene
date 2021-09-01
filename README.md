@@ -19,6 +19,5 @@ I’m a Full-Stack developer with a special interest in Javascript and it's fram
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jfuquene&langs_count=8&layout=compact&theme=merko)
-)](https://github.com/jfuquene/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jfuquene&langs_count=8&layout=compact&theme=merko)](https://github.com/jfuquene/github-readme-stats)
 

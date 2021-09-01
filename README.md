@@ -1,7 +1,7 @@
-###Hi there, I’m John Fuquene👋
+Hi there, I’m John Fuquene👋
 
 
-##I’m a Full-Stack developer.
+I’m a recent bootcamp Full-Stack developer with a special interest in Javascript and it's frameworks
 
 🔭 I’m currently working on side projects to keep my new skills fresh
 
@@ -18,4 +18,5 @@
 ⚡ Fun fact: I love sports(was a college athlete)
 
 
-LinkedIn: https://www.linkedin.com/in/john-fuquene-7ba746188/
+<img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<USERNAME>&theme=<THEME_NAME
+

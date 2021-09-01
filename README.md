@@ -16,3 +16,6 @@
 
 
 ⚡ Fun fact: I love sports(was a college athlete)
+
+
+LinkedIn: https://www.linkedin.com/in/john-fuquene-7ba746188/

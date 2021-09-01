@@ -19,6 +19,6 @@ I’m a recent bootcamp Full-Stack developer with a special interest in Javascri
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jfuquene&langs_count=8&layout=compact&theme=gradient)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jfuquene&langs_count=8&layout=compact&theme=merko)
 )](https://github.com/jfuquene/github-readme-stats)
 

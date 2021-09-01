@@ -17,6 +17,5 @@ I’m a recent bootcamp Full-Stack developer with a special interest in Javascri
 
 ⚡ Fun fact: I love sports(was a college athlete)
 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<jfuquene>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jfuquene)](https://github.com/jfuquene/github-readme-stats)
 

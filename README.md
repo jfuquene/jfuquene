@@ -1,7 +1,7 @@
 Hi there, I’m John Fuquene👋
 
 
-I’m a recent bootcamp Full-Stack developer with a special interest in Javascript and it's frameworks
+I’m a Full-Stack developer with a special interest in Javascript and it's frameworks
 
 🔭 I’m currently working on side projects to keep my new skills fresh
 
